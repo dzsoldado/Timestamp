@@ -1,0 +1,12 @@
+{
+  "name": "training_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "deployed": "node index.js"
+  },
+  "author": "bigboss",
+  "license": "ISC"
+}
